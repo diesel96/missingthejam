@@ -1,1 +1,1 @@
-<?php include_once("jam.html"); ?>
+<?php header('location: /jam.html'); ?>

@@ -1,1 +1,14 @@
 body, html {} 
+
+
+#frame {
+    display: flex;
+    justify-content: space-between;
+}
+
+iframe {
+
+}
+
+.Frame {
+object-fit: fill}
